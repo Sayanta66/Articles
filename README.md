@@ -1,4 +1,4 @@
-# Blogs
+# [Blogs](https://github.com/Sayanta66/Blogs)
 
 The latest blog posts are listed below:
 
