@@ -16,5 +16,5 @@ The latest blog posts are listed below:
 * [Everything you need to know about CFPs](https://www.civo.com/blog/everything-you-need-to-know-about-cfps)
 * [Everything you need to know about cloud-native](https://www.civo.com/blog/everything-you-need-to-know-about-cloud-native)
 * [DevOps 101: All you need to know](https://www.civo.com/blog/devops-101-all-you-need-to-know)
-* [What's new in Kubernetes v1.25? / In-depth analysis](https://docs.google.com/document/d/1huj45QDK45bK0eHK-yK-qdE9PubeBnnRTiQ-QLIHZn4/edit?pli=1)
+* [What's new in Kubernetes v1.25? / In-depth analysis](https://hackmd.io/MofAUul3RhWyvMon4tzgeg)
 * [All you need to know about Internal Developer Platforms and architecting one with Backstage and Humanitec](https://docs.google.com/document/d/1MnJBgcBwsMaz3YoX77L8flNtWvruZrBifMAXOX8LUM4/edit)
