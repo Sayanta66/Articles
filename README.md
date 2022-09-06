@@ -3,7 +3,7 @@
 The latest blog posts are listed below:
 
 * [Build and test your code with a CI pipeline](https://www.civo.com/blog/build-and-test-your-code)
-* [Understanding K3s with simplicity](https://www.civo.com/blog/understanding-k3s)
+* [Understanding Civo K3s with simplicity](https://www.civo.com/blog/understanding-k3s)
 * [Kubernetes vs Docker: A comprehensive comparison](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
 * [Everything you need to know about K3s](https://mattermost.com/blog/intro-to-k3s-lightweight-kubernetes/)
 * [Create an Authenticated PDF converter](https://docs.google.com/document/d/1WCCXB6N41wSGnieiq_pdezkWzSV6vyaX-ly8DNkkl3s/edit#heading=h.vkl5dak63jix)
