@@ -18,3 +18,4 @@ The latest blog posts are listed below:
 * [DevOps 101: All you need to know](https://www.civo.com/blog/devops-101-all-you-need-to-know)
 * [What's new in Kubernetes v1.25? / In-depth analysis](https://hackmd.io/MofAUul3RhWyvMon4tzgeg)
 * [All you need to know about Internal Developer Platforms and architecting one with Backstage and Humanitec](https://docs.google.com/document/d/1MnJBgcBwsMaz3YoX77L8flNtWvruZrBifMAXOX8LUM4/edit)
+* [Kubernetes interview questions for beginners](https://www.civo.com/blog/kubernetes-questions-for-beginners)
