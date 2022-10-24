@@ -2,6 +2,8 @@
 
 The latest blog posts are listed below:
 
+* [Kubernetes and cloud-native glossary](https://docs.google.com/document/d/1270jrjqWMO9gVAHjkB1wbuKpLW5AQQRXgkVophUSmNM/edit?pli=1)
+* [Kubernetes interview questions for advanced learners](https://www.civo.com/blog/advanced-kubernetes-interview-questions)
 * [Build and test your code with a CI pipeline](https://www.civo.com/blog/build-and-test-your-code)
 * [Understanding Civo K3s with simplicity](https://www.civo.com/blog/understanding-k3s)
 * [Kubernetes vs Docker: A comprehensive comparison](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
