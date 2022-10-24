@@ -1,6 +1,8 @@
 # [Blogs](https://github.com/Sayanta66/Blogs)
 
-The latest blog posts are listed below:
+This page contains a non-comprehensive list of articles proudly written by me.
+
+The latest blog posts and articles are listed below:
 
 * [Kubernetes and cloud-native glossary](https://docs.google.com/document/d/1270jrjqWMO9gVAHjkB1wbuKpLW5AQQRXgkVophUSmNM/edit?pli=1)
 * [Kubernetes interview questions for advanced learners](https://www.civo.com/blog/advanced-kubernetes-interview-questions)
