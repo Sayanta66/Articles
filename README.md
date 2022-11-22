@@ -4,6 +4,9 @@ This page contains a non-comprehensive list of articles proudly written by me.
 
 The latest blog posts and articles are listed below:
 
+* [Your guide to Kubernetes dashboards / Civo](https://docs.google.com/document/d/1Dw0C1P5F1gRd8zf9axV6lDQPiTSCN7MqdlDVAEtwQmg/edit#)
+* [Edge computing explained / Civo](https://www.civo.com/blog/edge-computing-explained)
+* [Trending topics at KubeCon NA 2022 / Civo](https://www.civo.com/blog/trending-topics-at-kubecon)
 * [Kubernetes and cloud-native glossary / Civo](https://docs.google.com/document/d/1270jrjqWMO9gVAHjkB1wbuKpLW5AQQRXgkVophUSmNM/edit?pli=1)
 * [Kubernetes interview questions for advanced learners / Civo](https://www.civo.com/blog/advanced-kubernetes-interview-questions)
 * [Build and test your code with a CI pipeline / Civo](https://www.civo.com/blog/build-and-test-your-code)
