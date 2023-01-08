@@ -4,7 +4,7 @@ This page contains a non-comprehensive list of articles proudly written by me.
 
 The latest blog posts and articles are listed below:
 
-* []()
+* [A comprehensive guide to cloud cost management / Civo](https://www.civo.com/blog/cloud-cost-management-guide)
 * [Getting started with Nginx Ingress Controller / Civo](https://www.civo.com/blog/intro-to-nginx-ingress-controller)
 * [Your guide to Kubernetes dashboards / Civo](https://www.civo.com/blog/kubernetes-dashboards)
 * [Edge computing explained / Civo](https://www.civo.com/blog/edge-computing-explained)
