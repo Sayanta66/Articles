@@ -4,7 +4,7 @@ This page contains a non-comprehensive list of articles proudly written by me.
 
 The latest blog posts and articles are listed below:
 
-* [Data modelling with Statype](https://docs.google.com/document/d/1MQXF3siUP59j-RmaMQSmVQVZoRsU-6KbubZX_C4IKcI/edit#)
+* [Data modelling with Statype / Statype](https://docs.google.com/document/d/1MQXF3siUP59j-RmaMQSmVQVZoRsU-6KbubZX_C4IKcI/edit#)
 * [An introduction to Talos Linux: The new Kubernetes Operating System / Civo](https://www.civo.com/blog/introduction-talos-linux) 
 * [Scaling your application on Civo Platform, a PaaS solution / Civo](https://www.civo.com/blog/introducing-civo-platform)
 * [Strategies to optimize your cloud costs / Civo](https://www.civo.com/blog/maximizing-cloud-savings-strategies-to-optimize-your-cloud-costs)
