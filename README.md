@@ -1,4 +1,4 @@
-# [Articles](https://github.com/Sayanta66/Blogs)
+# [Articles](https://github.com/Sayanta66/Articles)
 
 This page contains a non-comprehensive list of articles proudly written by me. Find my certification [here](https://www.linkedin.com/in/sayanta-banerjee/details/certifications/). Badges at Credly can be found [here](https://www.credly.com/users/sayanta-banerjee).
 
