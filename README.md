@@ -1,6 +1,11 @@
 # [Articles](https://github.com/Sayanta66/Articles)
 
-This page contains a non-comprehensive list of articles proudly written by me. Find my certification [here](https://www.linkedin.com/in/sayanta-banerjee/details/certifications/). Badges at Credly can be found [here](https://www.credly.com/users/sayanta-banerjee).
+Hi, I am [Sayanta Banerjee](https://twitter.com/DevSayanta). This page contains a non-comprehensive list of articles proudly written by me. Find my certification [here](https://www.linkedin.com/in/sayanta-banerjee/details/certifications/). Badges at Credly can be found [here](https://www.credly.com/users/sayanta-banerjee).
+
+Upcoming articles:
+
+* Kubernetes 101: A comprehensive guide
+* A step-by-step guide: Moving Your Applications to Kubernetes
 
 The latest blog posts and articles are listed below:
 
