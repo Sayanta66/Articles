@@ -11,6 +11,7 @@ Upcoming articles:
 The latest blog posts and articles are listed below:
 
 * [Leveraging WebAssembly to for improved performance in Kubernetes / Civo](https://www.civo.com/blog/leveraging-webassembly-improved-performance-kubernetes)
+* [Networking 101 - IP Packets explained (Co-Written with Kai Hoffman) / Civo](https://www.civo.com/learn/ip-packets)
 * [Data modelling with Statype / Statype](https://docs.google.com/document/d/1MQXF3siUP59j-RmaMQSmVQVZoRsU-6KbubZX_C4IKcI/edit#)
 * [An introduction to Talos Linux: The new Kubernetes Operating System / Civo](https://www.civo.com/blog/introduction-talos-linux) 
 * [Scaling your application on Civo Platform, a PaaS solution / Civo](https://www.civo.com/blog/introducing-civo-platform)
