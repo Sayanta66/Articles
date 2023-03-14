@@ -6,6 +6,7 @@ Upcoming articles:
 
 * Kubernetes 101: A comprehensive guide
 * A step-by-step guide: Moving Your Applications to Kubernetes
+* PaaS vs IaaS vs SaaS: Understanding the difference
 
 The latest blog posts and articles are listed below:
 
