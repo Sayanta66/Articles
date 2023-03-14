@@ -4,7 +4,7 @@ Hi, I am [Sayanta Banerjee](https://twitter.com/DevSayanta). This page contains 
 
 Upcoming articles:
 
-* Kubernetes 101: A comprehensive guide
+* [Kubernetes 101: A comprehensive guide](https://www.civo.com/blog/kubernetes-compehensive-guide)
 * A step-by-step guide: Moving Your Applications to Kubernetes
 * PaaS vs IaaS vs SaaS: Understanding the difference
 * The ultimate guide to Kubernetes security: Best practices and tips
