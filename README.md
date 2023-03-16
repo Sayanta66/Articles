@@ -12,6 +12,7 @@ Upcoming articles:
 
 The latest blog posts and articles are listed below:
 
+* [Kubernetes vs Docker: A comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
 * [Choosing the right cloud provider / Civo](https://www.civo.com/blog/choosing-right-cloud-provider)
 * [Leveraging WebAssembly to for improved performance in Kubernetes / Civo](https://www.civo.com/blog/leveraging-webassembly-improved-performance-kubernetes)
 * [Networking 101 - IP Packets explained (Co-Written with Kai Hoffman) / Civo](https://www.civo.com/learn/ip-packets)
@@ -28,7 +29,7 @@ The latest blog posts and articles are listed below:
 * [Kubernetes interview questions for advanced learners / Civo](https://www.civo.com/blog/advanced-kubernetes-interview-questions)
 * [Build and test your code with a CI pipeline / Civo](https://www.civo.com/blog/build-and-test-your-code)
 * [Understanding Civo K3s with simplicity / Civo](https://www.civo.com/blog/understanding-k3s)
-* [Kubernetes vs Docker: A comprehensive comparison / Civo](https://hackmd.io/@Sayanta66/SJ0qtoayn)
+* [Kubernetes vs Docker: A difference that matters / In-depth analysis](https://hackmd.io/@Sayanta66/SJ0qtoayn)
 * [Everything you need to know about K3s / Mattermost](https://mattermost.com/blog/intro-to-k3s-lightweight-kubernetes/)
 * [Create an Authenticated PDF converter / In-depth analysis](https://docs.google.com/document/d/1WCCXB6N41wSGnieiq_pdezkWzSV6vyaX-ly8DNkkl3s/edit#heading=h.vkl5dak63jix)
 * [Trusted device authentication 101 / Mattermost](https://mattermost.com/blog/trusted-device-authentication-101/)
