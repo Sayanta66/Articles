@@ -12,7 +12,7 @@ Upcoming articles:
 
 The latest blog posts and articles are listed below:
 
-* [Kubernetes vs Docker: A comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
+* [Kubernetes vs Docker: A comprehensive comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
 * [Choosing the right cloud provider / Civo](https://www.civo.com/blog/choosing-right-cloud-provider)
 * [Leveraging WebAssembly to for improved performance in Kubernetes / Civo](https://www.civo.com/blog/leveraging-webassembly-improved-performance-kubernetes)
 * [Networking 101 - IP Packets explained (Co-Written with Kai Hoffman) / Civo](https://www.civo.com/learn/ip-packets)
