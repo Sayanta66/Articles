@@ -6,7 +6,6 @@ The Civo Kubernetes and Cloud-native glossary is out now. Check it out [here](ht
 
 Upcoming articles:
 
-* [Kubernetes 101: A comprehensive guide](https://www.civo.com/blog/kubernetes-compehensive-guide)
 * A step-by-step guide: Moving Your Applications to Kubernetes
 * PaaS vs IaaS vs SaaS: Understanding the difference
 * The ultimate guide to Kubernetes security: Best practices and tips
@@ -14,6 +13,7 @@ Upcoming articles:
 
 The latest blog posts and articles are listed below:
 
+* [Kubernetes 101: A comprehensive guide](https://www.civo.com/blog/kubernetes-comprehensive-guide)
 * [Kubernetes vs Docker: A comprehensive comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
 * [Choosing the right cloud provider / Civo](https://www.civo.com/blog/choosing-right-cloud-provider)
 * [Leveraging WebAssembly to for improved performance in Kubernetes / Civo](https://www.civo.com/blog/leveraging-webassembly-improved-performance-kubernetes)
