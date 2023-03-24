@@ -9,7 +9,8 @@ Upcoming articles:
 * A step-by-step guide: Moving Your Applications to Kubernetes
 * PaaS vs IaaS vs SaaS: Understanding the difference
 * The ultimate guide to Kubernetes security: Best practices and tips
-* Migrating your database to Civo: A developer's guide 
+* Migrating your database to Civo: A developer's guide
+* Integrating Weavy with a simple application
 
 The latest blog posts and articles are listed below:
 
