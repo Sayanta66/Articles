@@ -14,7 +14,7 @@ Upcoming articles:
 
 The latest blog posts and articles are listed below:
 
-* []()
+* [LangChain 101: An in-depth understanding of AI development with the framework](https://hackmd.io/@IQcZDnwwQhOWBae2DH1LFQ/HyFgR4xYA)
 * [8 steps to create a successful cloud strategy / Signoz](https://signoz.io/blog/cloud-strategy/)
 * [Kubernetes 101: A comprehensive guide](https://www.civo.com/blog/kubernetes-comprehensive-guide)
 * [Kubernetes vs Docker: A comprehensive comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
