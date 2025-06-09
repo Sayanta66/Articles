@@ -1,16 +1,31 @@
-# [Articles](https://github.com/Sayanta66/Articles)
+# [Documentation Portfolio](https://github.com/Sayanta66/Articles)
 
-Hi, I am [Sayanta Banerjee](https://twitter.com/DevSayanta). This page contains a non-comprehensive list of articles proudly written by me. Find my certifications [here](https://www.linkedin.com/in/sayanta-banerjee/details/certifications/). Badges at Credly can be found [here](https://www.credly.com/users/sayanta-banerjee).
+Hi, I am [Sayanta Banerjee](https://twitter.com/DevSayanta). This page contains a proof of my work on documentation and a non-comprehensive list of articles proudly written by me. Find my certifications [here](https://www.linkedin.com/in/sayanta-banerjee/details/certifications/). Badges at Credly can be found [here](https://www.credly.com/users/sayanta-banerjee).
 
 The Civo Kubernetes and Cloud-native glossary is out now. Check it out [here](https://www.civo.com/blog/kubernetes-and-cloud-native-az-guide).
 
-Upcoming articles:
+## API Documentation
 
-* A step-by-step guide: Moving Your Applications to Kubernetes
-* PaaS vs IaaS vs SaaS: Understanding the difference
-* The ultimate guide to Kubernetes security: Best practices and tips
-* Migrating your database to Civo: A developer's guide
-* Integrating Weavy with a simple application
+* **Python API** - Generated mock API documentation for the Python Math API. Check it out from [Sphinx-Mock-API-Documentation](https://github.com/Sayanta66/Sphinx-Mock-API-Documentation).
+* **REST API** - Documentation for a mock weather API (WIP).
+
+## Product Documentation
+
+Below are some of the product documentations, where I have played a major role in contributing to the existing documentation and overhauling the entire documentation.
+
+* [SAWO Labs Documentation](https://github.com/Sawo-Community/Sawo-Docs)
+* [Keysight ADS Documentation](https://docs.keysight.com/display/support/Submit+an+EDA+Support+Request) (**P.S.** - This doc is not publicly available as it is only given to active Keysight ADS users.)
+* [Nirmata Documentation](https://docs.nirmata.io/)
+* [Syself Documentation](https://syself.com/docs/caph/getting-started/introduction)
+* [Mattermost Documentation](https://docs.mattermost.com/)
+* [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+* [Civo Documentation](https://www.civo.com/docs)
+
+## Newsletters
+
+* Written **52 Dev-Catch-Up issues** for [DevShorts](https://www.devshorts.in/archive?sort=new). 
+
+## Articles
 
 The latest blog posts and articles are listed below:
 
@@ -51,5 +66,14 @@ The latest blog posts and articles are listed below:
 * [What's new in Kubernetes v1.25? / In-depth analysis - Civo](https://hackmd.io/MofAUul3RhWyvMon4tzgeg)
 * [All you need to know about Internal Developer Platforms and architecting one with Backstage and Humanitec / Humanitec](https://docs.google.com/document/d/1MnJBgcBwsMaz3YoX77L8flNtWvruZrBifMAXOX8LUM4/edit)
 * [Kubernetes interview questions for beginners / Civo](https://www.civo.com/blog/kubernetes-questions-for-beginners)
+
+## Upcoming articles:
+
+* A step-by-step guide: Moving Your Applications to Kubernetes
+* PaaS vs IaaS vs SaaS: Understanding the difference
+* The ultimate guide to Kubernetes security: Best practices and tips
+* Migrating your database to Civo: A developer's guide
+* Integrating Weavy with a simple application
+* Laundry list of AI Coding Copilots
 
 [Drop me a line](https://www.linkedin.com/in/sayanta-banerjee/) to catch up with me, if you want me to write for your organization or publication.
