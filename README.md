@@ -14,6 +14,7 @@ Upcoming articles:
 
 The latest blog posts and articles are listed below:
 
+* [The ultimate crash course on OpenAI APIs: A beginner's handbook](https://www.devshorts.in/p/the-ultimate-crash-course-on-openai)
 * [LangChain 101: An in-depth understanding of AI development with the framework](https://hackmd.io/@IQcZDnwwQhOWBae2DH1LFQ/HyFgR4xYA)
 * [8 steps to create a successful cloud strategy / Signoz](https://signoz.io/blog/cloud-strategy/)
 * [Kubernetes 101: A comprehensive guide](https://www.civo.com/blog/kubernetes-comprehensive-guide)
